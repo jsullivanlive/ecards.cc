@@ -1,6 +1,8 @@
 ecards.cc
 =========
 
+http://ecards.cc
+
 With the popularity of memes and people making their own ecards, I figured it would be fun to make a site that is purely open source to create these.
 
 ### Deployment

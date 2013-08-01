@@ -20,6 +20,13 @@ Run it like this to get autoreload working.
     $ npm install --dev
     $ foreman start -f Procfile-dev
 
+### TODO
+
+1. allow users to select an image from a library of examples
+1. allow a user to modify the text on the card
+1. allow a user to send it to someone
+1. midi music... there, i said it.
+
 ### Ads / Revenue
 
 No plan at this time, but that could change in the future if hosting 
